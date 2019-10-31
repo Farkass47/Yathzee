@@ -1,5 +1,5 @@
 {
-  "homapage":"https://Farkass47.github.io/Yathzee",
+  "homapage":"./",
   "name": "yahtzee",
   "version": "0.1.0",
   "private": true,
